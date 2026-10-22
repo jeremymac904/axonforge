@@ -1,0 +1,50 @@
+{
+  "status": "proposed implementation tokens derived from owner-approved visual direction; not installed or contrast-tested",
+  "brand": {
+    "company": "Axon Forge Labs",
+    "platform": "AxonBotOS",
+    "primary": "#142E50",
+    "navyRaised": "#17385D",
+    "navyHighlight": "#203F65",
+    "steelHighlight": "#496785",
+    "silver": "#A9B5C5"
+  },
+  "dark": {
+    "canvas": "#090E15",
+    "surface": "#101923",
+    "surfaceRaised": "#17212F",
+    "border": "#29384B",
+    "text": "#F2F5F9",
+    "textMuted": "#A9B5C5",
+    "primary": "#17385D",
+    "onPrimary": "#FFFFFF"
+  },
+  "light": {
+    "canvas": "#F7F9FC",
+    "surface": "#FFFFFF",
+    "surfaceSubtle": "#EDF1F6",
+    "border": "#DCE2EB",
+    "text": "#18212E",
+    "textMuted": "#647187",
+    "primary": "#142E50",
+    "onPrimary": "#FFFFFF"
+  },
+  "typography": {
+    "proposedFamilies": [
+      "Inter",
+      "Geist",
+      "system-ui",
+      "sans-serif"
+    ],
+    "bodySizePx": 16,
+    "compactBodySizePx": 14,
+    "note": "Resolve actual font files during implementation; generated mockups are not font assets."
+  },
+  "radiiPx": {
+    "control": 10,
+    "card": 12,
+    "modal": 14
+  },
+  "iconStrokePx": 1.5,
+  "scopeNote": "Dark and light tokens cover AxonBotOS. Only a dark homepage design is selected for the website."
+}

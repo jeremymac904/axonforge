@@ -88,3 +88,7 @@ The included `netlify.toml` configures the same build settings and basic static-
 - Review legal pages with counsel before relying on them for regulated, paid, or high-risk products.
 - Replace portfolio placeholders with approved public product details as apps become available.
 - Add platform-specific app IDs and support references when Apple, Google, or Microsoft listings are created.
+
+## Approved design direction: October 22, 2026
+
+[Axon Forge Labs design gallery and website plan](docs/design/2026-10-22/README.md) records the selected navy, charcoal and silver homepage, original exploration, and proposed implementation tokens. These are design references, not a deployed website change. The AxonBotOS platform has its own [repository](https://github.com/jeremymac904/AxonBotOS).

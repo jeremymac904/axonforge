@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-22",
+  "timezone": "America/New_York",
+  "artifactType": "generated design mockups; not application screenshots",
+  "assets": [
+    {
+      "path": "assets/axon-forge-labs-homepage-navy.png",
+      "sourceFilename": "exec-02c560ce-7a4d-4099-80b6-bf579721c3e4.png",
+      "status": "approved visual direction",
+      "mimeType": "image/png",
+      "bytes": 2078065,
+      "width": 783,
+      "height": 2007,
+      "sha256": "8e5d3659b796c30e9614c59d4ee1f5a170379cfc3788460c3853304c9523a075",
+      "gitBlobSha1": "d54e88a83b710b3baf20c72d55310d0fb190e16f"
+    },
+    {
+      "path": "exploration/01-ember-steel-orange.png",
+      "sourceFilename": "exec-162bffd7-4f49-4482-a495-9ce46afc806b.png",
+      "status": "historical; layout selected but orange superseded",
+      "mimeType": "image/png",
+      "bytes": 2183555,
+      "width": 783,
+      "height": 2008,
+      "sha256": "a646b19ae4c98f59fa4c4311a93a1ab0086443952f5b5c3da7b28cd881c08033",
+      "gitBlobSha1": "4c4ab5a07d2efb63d7520e05a99554bcd4bbac24"
+    },
+    {
+      "path": "exploration/02-editorial-lab.png",
+      "sourceFilename": "exec-be0d2ee9-b96d-4fc1-8fd0-ee3da86228a9.png",
+      "status": "historical alternative; not selected",
+      "mimeType": "image/png",
+      "bytes": 1770933,
+      "width": 768,
+      "height": 2048,
+      "sha256": "7eaab4b17a5c6973ceda1a842bcfa227ce714593deb4ad9f327ed8ab022b81f4",
+      "gitBlobSha1": "35cc2e7c8782799a0f0fd0f5a0b106311e4283bc"
+    },
+    {
+      "path": "exploration/03-neon-systems.png",
+      "sourceFilename": "exec-60ff5e29-c1f5-41e1-8994-518a57ea09db.png",
+      "status": "historical alternative; not selected",
+      "mimeType": "image/png",
+      "bytes": 2002221,
+      "width": 765,
+      "height": 2056,
+      "sha256": "4d7c5ccb58a94d8ca1f3b2eb2893de740d90415120fa67ed6e6c22b8aeee7360",
+      "gitBlobSha1": "a7f59e7ff23bbdfae86f3912b6ac0dd63a5dba43"
+    },
+    {
+      "path": "exploration/04-signal-workshop.png",
+      "sourceFilename": "exec-60a68def-d5d3-42e9-82ed-5451b596974f.png",
+      "status": "historical alternative; not selected",
+      "mimeType": "image/png",
+      "bytes": 1968424,
+      "width": 768,
+      "height": 2048,
+      "sha256": "32b581cc65be567c9afcd7f343967a79da7e4e6c9928da71102eef748a0f849d",
+      "gitBlobSha1": "62fe73d6f5e82195f3013345fd2f8a82b825d3c1"
+    },
+    {
+      "path": "exploration/05-founders-studio.png",
+      "sourceFilename": "exec-110fb10a-1cde-4271-9d94-74b359cf65e3.png",
+      "status": "historical alternative; not selected",
+      "mimeType": "image/png",
+      "bytes": 2135374,
+      "width": 768,
+      "height": 2048,
+      "sha256": "ee7d8c0d1a279bb670b393d0804ed2201d0f7b7f8279f4b9306df253f4e66935",
+      "gitBlobSha1": "f92f2801a311c998daea33215c435d36138567f6"
+    }
+  ]
+}
