@@ -1,0 +1,3 @@
+import {pageMetadata} from "@/lib/metadata";
+export const metadata=pageMetadata({title:'The Lab',description:'Build notes and experiments from Axon Forge Labs.',path:'/lab'});
+import Link from "next/link";export default function Page(){return <section className="forge-width forge-section forge-page"><p className="forge-label">Axon Forge Labs</p><h1>Inside the lab.</h1><p className="forge-intro">Build notes, experiments and practical lessons. AxonBotOS is currently being prepared for private testing; provider connections and computer images remain under development.</p><Link className="forge-text-link" href="/platforms">Explore the platforms →</Link></section>}

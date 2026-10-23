@@ -1,0 +1,3 @@
+import {pageMetadata} from "@/lib/metadata";
+export const metadata=pageMetadata({title:'AI collaborators',description:'AI collaborator roles with human direction and accountability.',path:'/team'});
+import Link from "next/link";export default function Page(){return <section className="forge-width forge-section forge-page"><p className="forge-label">Axon Forge Labs</p><h1>Human-led. AI-powered.</h1><p className="forge-intro">Jeremy directs a team of AI collaborators across coordination, editorial work, creative direction, automation, engineering and production. These are AI roles, not employee biographies. Access and capabilities vary by task.</p><Link className="forge-text-link" href="/platforms">Explore the platforms →</Link></section>}

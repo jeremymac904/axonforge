@@ -1,5 +1,5 @@
 export const site = {
-  name: "AxonForge AI",
+  name: "Axon Forge Labs",
   legalName: "AxonForge AI, LLC",
   founder: "Jeremy McDonald",
   url: "https://axonforgeai.com",
@@ -12,13 +12,8 @@ export const site = {
 };
 
 export const mainNav = [
-  { href: "/", label: "Home" },
-  { href: "/apps", label: "Apps" },
-  { href: "/products", label: "Products" },
-  { href: "/services", label: "Services" },
-  { href: "/portfolio", label: "Portfolio" },
-  { href: "/about", label: "About" },
-  { href: "/contact", label: "Contact" },
+ {href:"/platforms",label:"Platforms"}, {href:"/news",label:"AI News"},
+ {href:"/tutorials",label:"Tutorials"}, {href:"/lab",label:"The Lab"}, {href:"/about",label:"About"},
 ];
 
 export const footerNav = [

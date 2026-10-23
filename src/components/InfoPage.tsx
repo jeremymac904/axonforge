@@ -32,7 +32,7 @@ export function BulletList({ items }: { items: string[] }) {
     <ul className="grid gap-3">
       {items.map((item) => (
         <li key={item} className="flex gap-3 text-zinc-300">
-          <span className="mt-2 size-1.5 shrink-0 rounded-full bg-cyan-300" />
+          <span className="mt-2 size-1.5 shrink-0 rounded-full bg-slate-300" />
           <span>{item}</span>
         </li>
       ))}

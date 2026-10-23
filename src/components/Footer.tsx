@@ -16,21 +16,21 @@ export function Footer() {
           <div className="flex items-center gap-3 text-zinc-400">
             <a
               href={`mailto:${site.contactEmail}`}
-              className="rounded-md p-2 transition hover:bg-white/5 hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+              className="rounded-md p-2 transition hover:bg-white/5 hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
               aria-label="Email AxonForge AI"
             >
               <Mail className="size-5" />
             </a>
             <a
               href="https://www.linkedin.com/company/axonforge-ai"
-              className="rounded-md p-2 transition hover:bg-white/5 hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+              className="rounded-md p-2 transition hover:bg-white/5 hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
               aria-label="AxonForge AI on LinkedIn"
             >
               <BriefcaseBusiness className="size-5" />
             </a>
             <a
               href="https://github.com/jeremymac904/axonforge"
-              className="rounded-md p-2 transition hover:bg-white/5 hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+              className="rounded-md p-2 transition hover:bg-white/5 hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
               aria-label="AxonForge AI GitHub repository"
             >
               <GitBranch className="size-5" />
@@ -45,20 +45,20 @@ export function Footer() {
                 <Link
                   key={item.href}
                   href={item.href}
-                  className="text-sm text-zinc-400 transition hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+                  className="text-sm text-zinc-400 transition hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
                 >
                   {item.label}
                 </Link>
               ))}
               <Link
                 href="/case-studies"
-                className="text-sm text-zinc-400 transition hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+                className="text-sm text-zinc-400 transition hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
               >
                 Case Studies
               </Link>
               <Link
                 href="/ai-systems"
-                className="text-sm text-zinc-400 transition hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+                className="text-sm text-zinc-400 transition hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
               >
                 AI Systems
               </Link>
@@ -71,7 +71,7 @@ export function Footer() {
                 <Link
                   key={item.href}
                   href={item.href}
-                  className="text-sm text-zinc-400 transition hover:text-cyan-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+                  className="text-sm text-zinc-400 transition hover:text-slate-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
                 >
                   {item.label}
                 </Link>

@@ -13,14 +13,15 @@ export function Header() {
             <Link
               key={item.href}
               href={item.href}
-              className="rounded-lg px-3 py-2 text-sm font-medium text-zinc-300 transition hover:bg-white/5 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+              className="rounded-lg px-3 py-2 text-sm font-medium text-zinc-300 transition hover:bg-white/5 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
             >
               {item.label}
             </Link>
           ))}
         </nav>
+        <Link href="/contact" className="forge-button forge-contact hidden lg:inline-flex">Work With Us <span aria-hidden="true">→</span></Link>
         <details className="group relative md:hidden">
-          <summary className="grid size-10 cursor-pointer list-none place-items-center rounded-lg border border-white/15 bg-white/5 text-white marker:hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300">
+          <summary className="grid size-10 cursor-pointer list-none place-items-center rounded-lg border border-white/15 bg-white/5 text-white marker:hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300">
             <Menu aria-hidden="true" className="size-5" />
             <span className="sr-only">Open menu</span>
           </summary>
@@ -32,7 +33,7 @@ export function Header() {
               <Link
                 key={item.href}
                 href={item.href}
-                className="rounded-md px-3 py-2 text-sm font-medium text-zinc-200 hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300"
+                className="rounded-md px-3 py-2 text-sm font-medium text-zinc-200 hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-300"
               >
                 {item.label}
               </Link>
